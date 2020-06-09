@@ -1,4 +1,4 @@
 nombre_backet = pruebasdesoftware1
-img_control = control.png
-img_pruebas = 50justo.png,50mas.png,rot90.png,desordenada_rept.png,marca_agua.jpg,similar1.jpg,gato.jpg
+img_control = imagen_control.png
+img_pruebas = mas_de_50.png,menor_igual_50.png,confianza_menor_97.jpg,confianza_mayor_97.png,rotada_90.png,sin_caracter.png,repetidas.png,desordenadas.png,todas_minusculas.png,todas_mayusculas.png,mezcladas.png,sentencia.png
 

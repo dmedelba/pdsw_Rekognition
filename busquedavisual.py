@@ -49,7 +49,7 @@ def main():
             comparacion = 'False'
         time = datetime.now()
         log.write(str(time)+ " | "+ str(p)+ " -- "+ "Resultado: "+comparacion + "\n")
-        #print(p, palabras_p)
+        print(p, palabras_p)
     
     log.close()
     #print(palabras_control)

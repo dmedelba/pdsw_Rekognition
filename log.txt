@@ -1,9 +1,14 @@
-Imagen de control: control.png
+Imagen de control: imagen_control.png
 
-2020-06-09 02:40:16.911859 | 50justo.png -- Resultado: True
-2020-06-09 02:40:25.305469 | 50mas.png -- Resultado: False
-2020-06-09 02:40:27.549178 | rot90.png -- Resultado: True
-2020-06-09 02:40:34.495016 | desordenada_rept.png -- Resultado: True
-2020-06-09 02:40:38.428052 | marca_agua.jpg -- Resultado: False
-2020-06-09 02:40:40.620064 | similar1.jpg -- Resultado: False
-2020-06-09 02:40:42.905621 | gato.jpg -- Resultado: True
+2020-06-09 19:41:59.946667 | mas_de_50.png -- Resultado: False
+2020-06-09 19:42:05.916016 | menor_igual_50.png -- Resultado: True
+2020-06-09 19:42:08.578691 | confianza_menor_97.jpg -- Resultado: False
+2020-06-09 19:42:11.480722 | confianza_mayor_97.png -- Resultado: True
+2020-06-09 19:42:13.850356 | rotada_90.png -- Resultado: True
+2020-06-09 19:42:16.285982 | sin_caracter.png -- Resultado: False
+2020-06-09 19:42:22.628300 | repetidas.png -- Resultado: True
+2020-06-09 19:42:25.578068 | desordenadas.png -- Resultado: True
+2020-06-09 19:42:27.539572 | todas_minusculas.png -- Resultado: True
+2020-06-09 19:42:29.706315 | todas_mayusculas.png -- Resultado: True
+2020-06-09 19:42:31.671729 | mezcladas.png -- Resultado: False
+2020-06-09 19:42:34.421297 | sentencia.png -- Resultado: False
