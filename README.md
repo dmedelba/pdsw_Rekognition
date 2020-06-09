@@ -13,7 +13,7 @@ nombre_backet = nameMyBacket
 img_control = control.png
 img_pruebas = p1.png, p2.png, p3.png
 ```
-Donde 'nameMyBacket' corresponde al nombre de tu backet AWS S3.
+Donde `nameMyBacket` corresponde al nombre de tu backet AWS S3.
 `control.png` corresponde al nombre de la imagen de control junto a su extensión.
 `p1.png, p2.png, p3.png` corresponden a los nombres de las imagenes que serán comparadas con la imagen control. Estos nombres deben estar separados por una coma.
 
