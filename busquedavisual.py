@@ -2,8 +2,8 @@
 #PDX-License-Identifier: MIT-0 (For details, see https://github.com/awsdocs/amazon-rekognition-developer-guide/blob/master/LICENSE-SAMPLECODE.)
 
 import boto3
-
-def detect_text(photo, bucket):
+def leer_informacion
+def detectar_texto(photo, bucket):
 
     client=boto3.client('rekognition')
 
@@ -25,7 +25,7 @@ def main():
 
     bucket='pruebasdesoftware1'
     photo='51-ok.png'
-    text_count=detect_text(photo,bucket)
+    text_count=detectar_text(photo,bucket)
     print("Text detected: " + str(text_count))
 
 

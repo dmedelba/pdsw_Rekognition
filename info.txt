@@ -1,0 +1,4 @@
+nombre_backet = pruebasdesoftware1
+img_control = control.png
+img_pruebas = p1.png, p2.png, p3.png
+
