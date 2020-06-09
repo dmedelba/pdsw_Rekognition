@@ -1,7 +1,7 @@
 import boto3
 from datetime import datetime
 #Valores globales
-PORCENTAJE = 95
+PORCENTAJE = 97
 
 def leer_informacion(archivo="info.txt"):
     info = open(archivo)
@@ -27,7 +27,7 @@ def detectar_texto(photo, bucket):
     detectadas = set()
     for text in textDetections:
         confidence = text['Confidence']
-        if(confidence > PORCENTAJE and text['Type']== 'WORD'):
+        if(confidence >= PORCENTAJE and text['Type']== 'WORD'):
             detectadas.add(text['DetectedText'].upper())
     return detectadas
 
