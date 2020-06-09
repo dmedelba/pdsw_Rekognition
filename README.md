@@ -11,7 +11,7 @@ Para acceder a este y realizar las pruebas requeridas debes modificar el archivo
 ```
 nombre_backet = nameMyBacket
 img_control = control.png
-img_pruebas = p1.png, p2.png, p3.png
+img_pruebas = p1.png,p2.png,p3.png
 ```
 Donde `nameMyBacket` corresponde al nombre de tu backet AWS S3.
 `control.png` corresponde al nombre de la imagen de control junto a su extensión.
