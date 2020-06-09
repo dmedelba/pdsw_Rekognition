@@ -1,0 +1,9 @@
+Imagen de control: control.png
+
+2020-06-09 02:40:16.911859 | 50justo.png -- Resultado: True
+2020-06-09 02:40:25.305469 | 50mas.png -- Resultado: False
+2020-06-09 02:40:27.549178 | rot90.png -- Resultado: True
+2020-06-09 02:40:34.495016 | desordenada_rept.png -- Resultado: True
+2020-06-09 02:40:38.428052 | marca_agua.jpg -- Resultado: False
+2020-06-09 02:40:40.620064 | similar1.jpg -- Resultado: False
+2020-06-09 02:40:42.905621 | gato.jpg -- Resultado: True

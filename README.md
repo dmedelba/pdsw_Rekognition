@@ -5,6 +5,8 @@ Búsqueda visual consiste en verificar si el texto de una imagen control se encu
 Código desarrollado en python3.
 Librerias necesaria: 
 - boto3 : `pip install boto3`
+Se debe tener las credenciales de AWS ingresadas en la configuración de AWS-CLI.
+
 
 Las pruebas se realizan sobre archivos que deben estar en un AWS S3 bucket.
 Para acceder a este y realizar las pruebas requeridas debes modificar el archivo 'info.txt' agregando los datos segun corresponda, por ejemplo
